@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The louers guift, or a Fairing for maides being a dialogue betweene Edmund and Prisilly. To a pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72838</idno>
+            <idno type="STC">STC 16864a.1</idno>
+            <idno type="STC">ESTC S124575</idno>
+            <idno type="EEBO-CITATION">99899184</idno>
+            <idno type="PROQUEST">99899184</idno>
+            <idno type="VID">150698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1972:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The louers guift, or a Fairing for maides being a dialogue betweene Edmund and Prisilly. To a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by E. Allde] for Iohn Trundle, and are to be solde at his shop in Barbican,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[c. 1615]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date of publication from STC.</note>
+                  <note>Verse - "My loue she is faire,".</note>
+                  <note>In two parts, printed side by side; the second part has title: [The s]econd part of the louers gift, to the same tnne [sic].</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150698:1"/>
+            <!-- PDF PAGE 12 -->
+            <head>The Louers Guift, Or a Fairing for Maides: Being a Dialogue betweene <hi>Edmund</hi> and <hi>Priſilly.</hi>
+            </head>
+            <opener>To a pleaſant new tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>MY Loue ſhe is faire,</l>
+                     <l>ſu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>paſſin<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>compare,</l>
+                     <l>More bright, then was <hi>Daphne</hi> the coy:</l>
+                     <l>Her two ſtarry eyes,</l>
+                     <l>My heart did ſurpriſe,</l>
+                     <l>Being ſtrucke by the blinded Boy,</l>
+                     <l>Sée where ſhe doth come,</l>
+                     <l>Her ſight ſtrikes me dumbe,</l>
+                     <l>Ile ſpeake though to ſpeake it grieue me,</l>
+                     <l>My owne gentle ſwéeting</l>
+                     <l>I am glad of this méeting,</l>
+                     <lg type="refrain">
+                        <l>Thou knowſt not what I haue to giue thée.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſilly.</speaker>
+                  <lg>
+                     <l>I pray thée giue ore,</l>
+                     <l>Intice me no more,</l>
+                     <l>In ſuing for loue thou doſt moue me.</l>
+                     <l>For I tell thée plaine,</l>
+                     <l>I doe thée diſdaine,</l>
+                     <l>I haue not the power to loue thée:</l>
+                     <l>My anſwere you know,</l>
+                     <l>You backward may goe,</l>
+                     <l>For it is another muſt ſhriue me:</l>
+                     <l>Thy face I diſpiſe,</l>
+                     <l>for thy great goggle eyes,</l>
+                     <lg type="refrain">
+                        <l>I care not what thou haſt to giue me.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>Thou Ioy of my life,</l>
+                     <l>what néede all this ſtrife,</l>
+                     <l>Thou knowſt that I loue thee more,</l>
+                     <l>Then <hi>Piramis,</hi>
+                     </l>
+                     <l>When <hi>Thisby</hi> was his,</l>
+                     <l>Who after by a Lyon was tore:</l>
+                     <l>Quéene <hi>Iuno</hi> did moue,</l>
+                     <l>The Olimpicall <hi>Ioue,</hi>
+                     </l>
+                     <l>Yet ſo will not <hi>Edmund</hi> greeue thée,</l>
+                     <l>I pray thee ſwéet heart,</l>
+                     <l>Some kinde wordes impart,</l>
+                     <lg type="refrain">
+                        <l>Thou knowſt not what I haue to giue thée.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſilly.</speaker>
+                  <lg>
+                     <l>As <hi>Iuno</hi> did mone</l>
+                     <l>The thunderer <hi>Ioue,</hi>
+                     </l>
+                     <l>
+                        <hi>Priſilly</hi> will ſtriue for to moue thee,</l>
+                     <l>Thy ruſticall wordes</l>
+                     <l>No matter affoordes,</l>
+                     <l>To make a young mayden to loue thée,</l>
+                     <l>Learne wit for to woe</l>
+                     <l>Or I cannot doe,</l>
+                     <l>Nor will I in ought beléeue thée,</l>
+                     <l>I pray thée giue ore,</l>
+                     <l>Torment me no more,</l>
+                     <lg type="refrain">
+                        <l>I care not what thou haſt to giue me.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>Why mayden ſo bright,</l>
+                     <l>My birth doe not ſpight,</l>
+                     <l>For I doe not murmure at there,</l>
+                     <l>But thinke with thy ſelfe,</l>
+                     <l>Tho thy father haue pelfe,</l>
+                     <l>Thy birth cannot equall mine:</l>
+                     <l>Thy vertues doth moue</l>
+                     <l>Poore <hi>Edmund</hi> to loue,</l>
+                     <l>And ſtill ſhall if thou wilt beléeue mee,</l>
+                     <l>Let loue not be vaine</l>
+                     <l>But loue me againe,</l>
+                     <lg type="refrain">
+                        <l>Thou knowſt not what I haue to giue thée.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſilly.</speaker>
+                  <lg>
+                     <l>Nay grieue not at this</l>
+                     <l>For what is amiſſe,</l>
+                     <l>Ile ſtriue for to make thée amendes,</l>
+                     <l>To leaue off delay,</l>
+                     <l>Faith what would you ſay,</l>
+                     <l>If you and I ioyned like friends<g ref="char:punc">▪</g>
+                     </l>
+                     <l>If to your deſert</l>
+                     <l>My loue I impart,</l>
+                     <l>And that I ſhould fondly beléeue thee,</l>
+                     <l>I doubt you would proue</l>
+                     <l>Diſloyall in loue,</l>
+                     <lg type="refrain">
+                        <l>And you would that ſame guift giue me,</l>
+                     </lg>
+                  </lg>
+               </sp>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150698:1"/>
+               <!-- PDF PAGE 12 -->
+               <head>Second part of the Louers gift,</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>DEare ſweet would you ioyne,</l>
+                     <l>Your loue vnto mine,</l>
+                     <l>My loue ſhould for euer ſtand ſure,</l>
+                     <l>Or to end the ſtrife</l>
+                     <l>Wouldſt thou be my wife,</l>
+                     <l>Like Turtles we both would indure:</l>
+                     <l>There ſhould not proceede</l>
+                     <l>No bad word nor déede,</l>
+                     <l>That ſhould haue the power to grieue thée,</l>
+                     <l>We'le liue till we dye</l>
+                     <l>Moſt merily,</l>
+                     <lg type="refrain">
+                        <l>Thou knowſt not what I haue to giue thée.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſilly.</speaker>
+                  <lg>
+                     <l>Since nothing can ſhift,</l>
+                     <l>Say what is the gift,</l>
+                     <l>That you vpon me would beſtow,</l>
+                     <l>And if I doe finde</l>
+                     <l>It contenteth my minde,</l>
+                     <l>Then more of my loue you ſhall know,</l>
+                     <l>That guift will me moue,</l>
+                     <l>To like as I loue,</l>
+                     <l>There quickly repeat it to me,</l>
+                     <l>And heere I proteſt,</l>
+                     <l>My heart ſhall reſt,</l>
+                     <l>Thou and I ſtraight will agrée.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>Then if you'le agrée,</l>
+                     <l>To marry with me,</l>
+                     <l>Ile make thée a Ioynter by the yeare:</l>
+                     <l>And ſet downe profound</l>
+                     <l>fiue hundred pound.</l>
+                     <l>And all for the loue of my deare:</l>
+                     <l>What a woman can craue,</l>
+                     <l>Be ſure to haue,</l>
+                     <l>And if that thou durſt to beleeue me,</l>
+                     <l>'Tis a gift moſt rare,</l>
+                     <l>To a mayden ſo faire,</l>
+                     <lg type="refrain">
+                        <l>Loe this is the gift I will giue thee.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſilly.</speaker>
+                  <lg>
+                     <l>This gift is of force</l>
+                     <l>To make your recorſe,</l>
+                     <l>The eaſier to my bed,</l>
+                     <l>No longer lets tarrie,</l>
+                     <l>But ſtraight let vs marry,</l>
+                     <l>And then take my mayden-head:</l>
+                     <l>No longer I can</l>
+                     <l>Liue without a man.</l>
+                     <l>Then pray thee ſweet hart beleeue me,</l>
+                     <l>Ile loue thee ſtill,</l>
+                     <l>If with a good will.</l>
+                     <lg type="refrain">
+                        <l>This prettie guift thou wilt giue me.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Edmund.</speaker>
+                  <lg>
+                     <l>Then ſweeting pray come,</l>
+                     <l>I long till 'tis donne,</l>
+                     <l>To Church let vs hie vs with ſpeed,</l>
+                     <l>I can when I liſt,</l>
+                     <l>Procure a blinde Prieſt,</l>
+                     <l>Which for vs ſhall doe this ſame deed,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Priſi.</speaker>
+                  <lg>
+                     <l>Then ſweet let vs goe,</l>
+                     <l>We muſt not be ſlow,</l>
+                     <l>If euer you meane to win me,</l>
+                     <l>But thinke vpon this,</l>
+                     <l>That you doe not miſſe,</l>
+                     <lg type="refrain">
+                        <l>This ſame pretie gift to giue me,</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Author.</speaker>
+                  <lg>
+                     <l>Away then they went,</l>
+                     <l>And fulfil'd there intent,</l>
+                     <l>Vnto their great comfort and ioy,</l>
+                     <l>Fortie weekes being paſt</l>
+                     <l>This young wife at the laſt,</l>
+                     <l>Did bring her young husband a boy,</l>
+                     <l>Heauen ſend all young wiues,</l>
+                     <l>To lead honeſt liues,</l>
+                     <l>And husbands to liue with them kinde.</l>
+                     <l>May wiues ſtriue to pleaſe,</l>
+                     <l>All ſuch husbands as theſe</l>
+                     <l>That are of ſo honeſt a minde.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for Iohn Trundle, and are to be ſolde at his ſhop in Barbic<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
